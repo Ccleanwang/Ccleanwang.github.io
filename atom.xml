@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-06-28T04:47:29.251Z</updated>
+  <updated>2025-06-28T05:14:06.139Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2025/06/28/My-First-Blog/"/>
     <id>http://example.com/2025/06/28/My-First-Blog/</id>
     <published>2025-06-28T04:44:31.000Z</published>
-    <updated>2025-06-28T04:47:29.251Z</updated>
+    <updated>2025-06-28T05:14:06.139Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h1><hr><h2 id="如何使用HEXO写个人博客"><a href="#如何使用HEXO写个人博客" class="headerlink" title="如何使用HEXO写个人博客"></a>如何使用HEXO写个人博客</h2><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h1><hr><h2 id="如何使用HEXO写个人博客"><a href="#如何使用HEXO写个人博客" class="headerlink" title="如何使用HEXO写个人博客"></a>如何使用HEXO写个人博客</h2><h3 id="常用操作"><a href="#常用操作" class="headerlink" title="常用操作"></a>常用操作</h3><ul><li><strong>启动本地服务器</strong>：<code>hexo s</code></li><li><strong>新建博客文章</strong>：<code>hexo n &quot;文件名字&quot;</code><ul><li>本操作会在<code>hexo-starter\source\_posts</code>路径下生成相应的.md文档</li><li>可以直接去目标文件夹用Typora等软件对文件进行修改，在localHost服务器运行的情况下只要<code>ctrl + s</code>能把修改过的文章内容同步到localHost网页上</li></ul></li><li><strong>生成静态网页文件</strong>:<code>hexo g</code><ul><li><code>hexo g</code> 是 Hexo 命令 <code>hexo generate</code> 的简写，它的核心作用是 <strong>将你的 Hexo 项目中的源代码（如 Markdown 文章、模板、主题等）转换成静态网页文件</strong>，以便发布到服务器或托管平台（如 GitHub Pages、Netlify 等）</li></ul></li><li><strong>远端部署</strong>：<code>hexo d</code><ul><li>部署之前要修改好配置文件</li><li>部署的目标网页要是一个有效的仓库，github&#x2F;gitee都行</li></ul></li></ul><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><hr>]]></content>
     
     
       
